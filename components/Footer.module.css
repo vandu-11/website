@@ -1,0 +1,25 @@
+.finalhomebody {
+    position: relative;
+    background-image: linear-gradient(50deg, #DBF6ED, #BBDDBB);
+    
+    height: 300px;
+    margin-top: 20px;
+    
+}
+
+.body1 {
+    position: absolute;
+    padding-left: 20px;
+}
+
+.body2 {
+    position: absolute;
+    left: 350px;
+    margin-left:200px;
+}
+
+.body3 {
+    position: absolute;
+    left: 600px;
+    margin-left: 200px;;
+}

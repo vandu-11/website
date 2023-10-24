@@ -1,0 +1,78 @@
+/* index.module.css */
+.nav-list {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+}
+ 
+.nav-list li {
+  margin-right: 20px;
+ 
+}
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+.nav-item {
+ 
+ 
+ 
+    margin-top: 30px;
+ 
+ 
+ 
+    margin-left: 40px; /* Add some spacing between links if desired */
+ 
+ 
+ 
+    font-size: 25px;
+ 
+    width:100%;
+ 
+    height: auto;
+ 
+ 
+ 
+  }
+ 
+ 
+ 
+   
+ 
+ 
+ 
+  .header-content {
+ 
+ 
+ 
+    margin-top: 30px; /* Adjust the margin-top value to move the content down as needed */
+ 
+ 
+ 
+    background-image: url('/one.jpg');
+ 
+ 
+ 
+    background-size: cover;
+ 
+ 
+ 
+    background-position: center;
+ 
+ 
+ 
+    background-repeat: no-repeat;
+ 
+ 
+ 
+    padding-left: 40px;
+ 
+ 
+ 
+  }

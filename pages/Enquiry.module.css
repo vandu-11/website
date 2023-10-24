@@ -1,0 +1,60 @@
+/* Enquiry.module.css */
+.enquiryContainer {
+  width:500px;
+  margin: 20px auto; /* Add margin to create space between the header and the form */
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+  background-color: #D9D9D9;
+
+  margin-top: 50px;
+  
+}
+
+
+.formContainer h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-align: center;
+  height: 100%;
+}
+
+.formContainer form label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.formContainer input[type="text"],
+.formContainer input[type="email"],
+.formContainer textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.formContainer textarea {
+  resize: vertical;
+}
+
+.formContainer button.submitButton {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.new {
+  height: 20px; /* Add height to create space */
+}
+
+.formContainer button.submitButton:hover {
+  background-color: #0069d9;
+}
+
+/* Your other styles, if any */
